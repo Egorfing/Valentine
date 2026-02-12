@@ -197,13 +197,13 @@ export default function Home() {
                 <Text size="sm" c="dimmed">
                   Инструкция для корректной ссылки:
                   <br />
-                  1. Загрузите картинку на{" "}
-                  <Anchor href="https://disk.yandex.ru/" target="_blank" rel="noreferrer">
-                    Яндекс Диск
+                  1. Загрузите фото к себе во{" "}
+                  <Anchor href="https://vk.com/" target="_blank" rel="noreferrer">
+                    ВКонтакте
                   </Anchor>
                   .
                   <br />
-                  2. Откройте картинку и нажмите правой кнопкой мыши.
+                  2. Откройте фото в полном размере и нажмите правой кнопкой мыши.
                   <br />
                   3. Выберите «Копировать URL картинки».
                   <br />
